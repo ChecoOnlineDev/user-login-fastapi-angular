@@ -1,0 +1,8 @@
+fastapi #framework for building APIs
+uvicorn #ASGI server for fastapi
+sqlalchemy #ORM for database interactions
+psycopg2-binary #adapter to connect to postgres
+pydantic[email] #data validation
+python-jose[cryptography] #JWT token handling
+passlib[bcrypt] #password hashing
+python-multipart #handling form data
